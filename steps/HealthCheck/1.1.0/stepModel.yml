@@ -1,0 +1,9 @@
+configuration:
+  healthCheckUrl:
+    type: Url
+  notifyOnSuccess:
+    type: Boolean
+  notifyOnFailure:
+    type: Boolean
+  stuff:
+    type: String[]
