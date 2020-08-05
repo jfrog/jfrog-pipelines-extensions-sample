@@ -1,5 +1,0 @@
-configuration:
-  healthCheckUrl:
-    type: Url
-  stuff:
-    type: String[]
